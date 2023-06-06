@@ -4,7 +4,7 @@ Welcome to the Picture in Picture project! This project allows you to display a 
 
 ## Live Demo
 
-Check out the live demo of the project: [Picture in Picture Demo](https://example.com)
+Check out the live demo of the project: [Picture in Picture Demo](https://jeffs0412.github.io/picture-in-picture/)
 
 ## Features
 
